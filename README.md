@@ -4,8 +4,6 @@
 
 Welcome to source engine:)
 
-Discord: https://discord.gg/hZRB7WMgGw
-
 # Current tasks
 - [x] Windows build support for waf
 - [x] NEON support
