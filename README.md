@@ -1,4 +1,7 @@
 # source-engine
+
+# Old Source-Engine Source code (prob 1.12) with TF2 2008 Android Source Code.
+
 Welcome to source engine:)
 
 Discord: https://discord.gg/hZRB7WMgGw
@@ -19,5 +22,3 @@ Discord: https://discord.gg/hZRB7WMgGw
 - [ ] Elbrus port
 - [ ] rewrite serverbrowser to work without steam
 
-
-# [How to Build?](https://github.com/nillerusr/source-engine/wiki/How-to-build)
