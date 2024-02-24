@@ -1,8 +1,11 @@
-# source-engine
 
-# Old Source-Engine Source code (prob 1.12) with TF2 2008 Android Source Code.
+# Source-Engine 1.12 Port with TF2Base port included. 
+## [TF2Base original repo](https://github.com/NicknineTheEagle/TF2-Base) 
 
-Welcome to source engine:)
+> [!CAUTION]
+> This TF2 port will not build on Windows ( i tried ),  i got it builded only by moving on 1.16. <br> **BOTS ARE MISSING!**
+
+# Welcome to source engine:)
 
 # Current tasks
 - [x] Windows build support for waf
